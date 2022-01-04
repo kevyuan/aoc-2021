@@ -21,7 +21,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@kevyuan](https://twitter.com/kevyuan) 
+Kevin Yuan - [@kevyuan](https://twitter.com/kevyuan) 
 
 Project Link: [https://github.com/kevyuan/aoc-2021](https://github.com/kevyuan/aoc-2021)
 
